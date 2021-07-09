@@ -1,0 +1,1 @@
+# ![Screenshot](https://github.com/AnneDupin/Landing_page_Digital_Banking_FreecodeCamp_Challenge/blob/main/FireShot%20Capture%20001%20-%20Frontend%20Mentor%20-%20Easybank%20landing%20page%20-%20127.0.0.1.png)
